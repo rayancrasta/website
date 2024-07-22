@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://rayancrasta.github.io/website/'
 languageCode = 'en-us'
 title = 'Rayan Crasta'
 theme = 'typo'
@@ -146,3 +146,5 @@ category = "General"
 categoryid = "categoryId"
 mapping = "pathname"
 theme = "preferred_color_scheme"
+
+relativeURLs = true
