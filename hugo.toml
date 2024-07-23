@@ -11,7 +11,7 @@ tag = 'tags'
 description = "A Tech Blog"
 
 # Appearance settings
-theme = 'auto'
+theme = 'light'
 colorPalette = 'default'
 hideHeader = false
 
@@ -73,12 +73,6 @@ date = "2024-05-20"
 title = "Building a booking service backend like Ticketmaster / BookMyShow "
 description = "Built a robust booking service backend like Ticketmaster using Go, Redis, and PostgreSQL, optimized for high traffic and real-time seat reservation"
 url = "https://medium.com/@rayancr/building-a-booking-service-backend-like-ticketmaster-and-bookmyshow-using-go-redis-and-postgresql-a4caa1f1105e"
-date = "2024-05-20"
-
-[[params.blog]]
-title = "Building a tweet ingestion and search backend like Twitter "
-description = "Built a scalable tweet ingestion and search backend using Go, Kafka, and Elasticsearch, handling real-time data and safe content filtering."
-url = "https://medium.com/@rayancr/building-a-tweet-ingestion-and-search-backend-like-twitter-using-go-kafka-and-elasticsearch-608b32e68252"
 date = "2024-05-20"
 
 [[params.blog]]
