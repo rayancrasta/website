@@ -16,7 +16,7 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hey!'
+homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I am a Software Engineer with a deep interest in backend engineering and software development.
 I am interested in a range of topics, including algorithms, distributed systems, and databases. 
