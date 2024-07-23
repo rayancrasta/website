@@ -1,4 +1,4 @@
-baseURL = "https://rayancrasta.github.io/website/"
+baseURL = "https://rayancrasta.github.io/"
 languageCode = 'en-us'
 title = 'Rayan Crasta'
 theme = 'typo'
